@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/codyanjs/CodLauncher/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/codyanjs/CodLauncher/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/codyanjs/CodLauncher/releases.atom"/>
+  <title>Release notes from HeliosLauncher</title>
+  <updated>2019-10-18T01:14:15+02:00</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/118847892/v1.7.0</id>
+    <updated>2019-10-18T01:58:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/codyanjs/CodLauncher/releases/tag/v1.7.0"/>
+    <title>Release v0.0.1 - First Version with lots of bugs.</title>
+    <author>
+      <name>codyanjs</name>
+    </author>
+  </entry>
