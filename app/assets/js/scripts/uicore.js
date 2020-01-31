@@ -38,7 +38,7 @@ webFrame.setLayoutZoomLevelLimits(0, 0)
 
 // Initialize auto updates in production environments.
 let updateCheckListener
-if(!isDev){
+/*if(!isDev){
     ipcRenderer.on('autoUpdateNotification', (event, arg, info) => {
         switch(arg){
             case 'checking-for-update':
@@ -91,7 +91,7 @@ if(!isDev){
                 break
         }
     })
-}
+}*/
 
 /**
  * Send a notification to the main process changing the value of
